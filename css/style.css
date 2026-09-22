@@ -78,8 +78,7 @@ h2{
 .img-presentation {
   width: 1750px; 
   display: block;
-  margin: 70px;
-  margin-left: 250px;
+  margin: 70px auto;
 }
 
 .img-une {
