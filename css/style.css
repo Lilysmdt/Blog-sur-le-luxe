@@ -75,10 +75,11 @@ h2{
   margin-left: 465px;
 }
 
-.img-presentation {
-    width: 1750px; 
+.img-presentation3 {
+    width: 750px; 
     display: block; 
-    margin: 70px auto;
+    margin: 20px auto;
+    margin-left: 35px;
 }
 
 .img-une {
